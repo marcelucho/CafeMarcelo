@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CafeMarcelo</string>
+
+    <!-- MenuItem -->
+    <string name="mnuItem1">Home</string>
+    <string name="mnuItem2">Colección</string>
+
+    <!-- Home -->
+    <string name="homeTitulo">CafeMarcelo</string>
+    <string name="homeReseña">Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo. Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.</string>
+    <string name="homeBoton">CREAR PLAN</string>
+
+    <!-- Coleccion -->
+    <string name="descripTitulo">Gama de Cafés</string>
+    <string name="descrip1">Gran Espresso</string>
+    <string name="descrip2">Planalto</string>
+    <string name="descrip3">Danche</string>
+    <string name="descripBoton">Suscribeté</string>
+
+</resources>
